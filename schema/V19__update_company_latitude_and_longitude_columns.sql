@@ -1,0 +1,5 @@
+ALTER TABLE dbo.company
+ALTER COLUMN latitude FLOAT NULL;
+
+ALTER TABLE dbo.company
+ALTER COLUMN longitude FLOAT NULL;
